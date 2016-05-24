@@ -28,7 +28,7 @@ CQuotation::CQuotation(DWORD dwID, STOCKCODE * pStockCode, int iStockNum  )
 	ZeroMemory( & m_stockcode[0] , sizeof( STOCKCODE ) * 400 );
 	memcpy( & m_stockcode[0] ,pStockCode , sizeof( STOCKCODE) * iStockNum );
 
-	redis =new redis::client("114.25.93.208",6379,0,"myPassword");
+	redis =new redis::client("14.25.93.208",6379,0,"myPassword");
 }
 
 CQuotation::~CQuotation()

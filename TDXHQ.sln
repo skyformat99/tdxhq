@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TDXHQ", "TDXHQ\TDXHQ.vcproj", "{77654D6F-F1B3-4081-8B7F-39AAC93D5A64}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HQTEST", "HQTEST\HQTEST.vcproj", "{BFCF3B46-8CAC-4F53-99D0-6A01271536E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77654D6F-F1B3-4081-8B7F-39AAC93D5A64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{77654D6F-F1B3-4081-8B7F-39AAC93D5A64}.Debug|Win32.Build.0 = Debug|Win32
+		{77654D6F-F1B3-4081-8B7F-39AAC93D5A64}.Release|Win32.ActiveCfg = Release|Win32
+		{77654D6F-F1B3-4081-8B7F-39AAC93D5A64}.Release|Win32.Build.0 = Release|Win32
+		{BFCF3B46-8CAC-4F53-99D0-6A01271536E7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFCF3B46-8CAC-4F53-99D0-6A01271536E7}.Debug|Win32.Build.0 = Debug|Win32
+		{BFCF3B46-8CAC-4F53-99D0-6A01271536E7}.Release|Win32.ActiveCfg = Release|Win32
+		{BFCF3B46-8CAC-4F53-99D0-6A01271536E7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
